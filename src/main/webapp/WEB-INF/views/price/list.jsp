@@ -298,11 +298,11 @@
                     </th>
                     <th>제품코드</th>
                     <th>제품명</th>
-                    <th style="min-width:94px;width: 16%">거래처코드</th>
-                    <th>거래처명</th>
-                    <th style="min-width:105px;width: 17%">시작일</th>
-                    <th style="width: 17%">종료일</th>
-                    <th style="min-width:40px;width: 8%">통화</th>
+                    <th style="min-width:94px;width: 17%">거래처코드</th>
+                    <th style="min-width:94px;width: 19%">거래처명</th>
+                    <th style="min-width:105px;width: 18%">시작일</th>
+                    <th style="min-width:105px;width: 18%">종료일</th>
+                    <th style="min-width:40px;width: 9%">통화</th>
                     <th style="width: 11%">할인율</th>
                     <th>금액</th>
                     <th>최종금액</th>
